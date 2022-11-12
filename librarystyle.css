@@ -1,0 +1,33 @@
+body {
+background-image: url(./old-books-in-library-shelf-luoman.jpg);
+background-repeat: repeat;
+background-attachment: fixed;
+background-position: center;
+}
+
+form {
+    font-size: x-large;
+}
+h1 {
+    font-size: 40px;
+
+}
+
+#table {
+    font-size: xx-large;
+}
+
+
+#container {
+    padding: 3rem;
+    background-color: white;
+    border-radius: 10px;
+    color: #000014;
+  }
+
+li {
+    list-style: none; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
